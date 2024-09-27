@@ -1,0 +1,28 @@
+table,td,tr{
+  border-collapse: collapse;
+}
+tr{
+    height: 70px;
+    color: blue;
+    font-size: 25px;
+    background-color: rgb(179, 222, 255);
+ }
+ 
+ td{
+    height: 250px;
+    width: 250px;
+ }
+table{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+
+}
+
+h1{
+    text-align: center;
+}
+button{
+    width: 15rem;
+    height: 15rem;
+}
